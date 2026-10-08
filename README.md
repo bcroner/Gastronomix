@@ -1,7 +1,7 @@
-# Computational Culinary Science & Sensory Matrix Framework (v1.0-Alpha)
+# Gastronomix Matrix Framework (v1.0-Alpha)
 
 ## Overview
-This repository establishes the foundational open-source architecture for **Computational Culinary Science**—a discipline fusing multi-dimensional biological sensory vector spaces, molecular pathway simulation, and autonomous physical robotic execution. By treating flavor and texture as calculable coordinate systems, this framework enables a universe computer simulation to auto-generate structurally exact recipes for hardware automated rigs and humanoid robotics.
+Gastronomix is the foundational open-source architecture for **Computational Culinary Science**—a discipline fusing multi-dimensional biological sensory vector spaces, molecular pathway simulation, and autonomous physical robotic execution. By treating flavor and texture as calculable coordinate spaces, this framework enables a universe computer simulation to auto-generate structurally exact recipes for hardware automated rigs and humanoid robotics.
 
 ---
 
